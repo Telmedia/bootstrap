@@ -1,0 +1,23 @@
+{
+  "name": "telmedia/bootstrap",
+  "description": "Compilation interne de bootstrap par Telmedia",
+  "license": "MIT",
+  "authors": [
+    {
+
+      "name": "Frédéric Duquesnoy",
+      "email": "fduquesnoy@telmedia.fr"
+
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "telmedia/jquery": "^1.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "Fk": "src/"
+    }
+  }
+}
