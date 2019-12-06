@@ -10,6 +10,9 @@
 
     }
   ],
+  "config": {
+        "vendor-dir": "../vendor"
+  },
   "require": {
     "php": ">=5.4.0",
     "telmedia/jquery": "^1.0"
